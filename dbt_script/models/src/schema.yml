@@ -1,0 +1,20 @@
+
+version: 2
+
+sources:
+  - name: jcdeol03_finalproject_dimasadihartomo
+    database: purwadika
+    schema: jcdeol03_finalproject_dimasadihartomo
+    tables:
+      - name: customer_stg
+      - name: product_stg
+      - name: payment_stg
+      - name: session_stg
+      - name: transaction_stg
+      - name: review_stg
+      - name: dim_customer
+      - name: dim_product
+      - name: dim_payment
+      - name: dim_session
+      - name: fact_transaction
+      - name: fact_review

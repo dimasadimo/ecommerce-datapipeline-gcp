@@ -1,0 +1,10 @@
+google-cloud-storage==2.16.0
+pendulum==2.1.2
+apache-airflow-providers-google==10.11.0
+dbt-core==1.5.0
+dbt-bigquery==1.5.0
+pandas~=2.1.4
+psycopg2-binary==2.9.9
+SQLAlchemy~=1.4.54
+python-dotenv==1.0.1 
+apache-airflow-providers-smtp==2.1.1

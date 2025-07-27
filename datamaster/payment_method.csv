@@ -1,0 +1,16 @@
+payment_method_id,method_name,provider,payment_type,created_at
+1,Credit Card,BCA,Card,2025-07-18 14:11:03.241033
+2,Credit Card,Mandiri,Card,2025-07-18 14:11:03.241033
+3,Credit Card,BNI,Card,2025-07-18 14:11:03.241033
+4,Virtual Account,BCA,Bank Transfer,2025-07-18 14:11:03.241033
+5,Virtual Account,Mandiri,Bank Transfer,2025-07-18 14:11:03.241033
+6,Virtual Account,BNI,Bank Transfer,2025-07-18 14:11:03.241033
+7,Virtual Account,CIMB Niaga,Bank Transfer,2025-07-18 14:11:03.241033
+8,E-Wallet,OVO,Wallet,2025-07-18 14:11:03.241033
+9,E-Wallet,GoPay,Wallet,2025-07-18 14:11:03.241033
+10,E-Wallet,ShopeePay,Wallet,2025-07-18 14:11:03.241033
+11,E-Wallet,DANA,Wallet,2025-07-18 14:11:03.241033
+12,PayLater,Shopee PayLater,Credit,2025-07-18 14:11:03.241033
+13,PayLater,GoPayLater,Credit,2025-07-18 14:11:03.241033
+14,PayLater,Kredivo,Credit,2025-07-18 14:11:03.241033
+15,Cash on Delivery,-,Cash,2025-07-18 14:11:03.241033
