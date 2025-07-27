@@ -5,14 +5,14 @@ This project implements a complete data engineering workflow for processing and 
 
 ---
 
-## 📂 Configuration & Secrets
+## Configuration & Secrets
 
 - Store your GCP credentials in: `config/`
 - Airflow variables and SMTP secrets are stored securely via environment or Airflow UI.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Build scheduled data pipelines using **Airflow + Docker**
 - Automate data loading to **PostgreSQL** using Python
@@ -27,7 +27,7 @@ This project implements a complete data engineering workflow for processing and 
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```bash
 ├── airflow/                      
