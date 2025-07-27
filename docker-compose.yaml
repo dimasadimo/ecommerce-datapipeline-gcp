@@ -82,13 +82,6 @@ x-airflow-common:
     DB_PASSWORD: "admin"
     DB_PORT: 5433
     AIRFLOW__EMAIL__EMAIL_BACKEND: airflow.utils.email.send_email_smtp
-    AIRFLOW__SMTP__SMTP_HOST: smtp.gmail.com
-    AIRFLOW__SMTP__SMTP_STARTTLS: 'True'
-    AIRFLOW__SMTP__SMTP_SSL: 'False'
-    AIRFLOW__SMTP__SMTP_USER: dimasadi1308@gmail.com
-    AIRFLOW__SMTP__SMTP_PASSWORD: xxxxxxxxxxxxx
-    AIRFLOW__SMTP__SMTP_PORT: '587'
-    AIRFLOW__SMTP__SMTP_MAIL_FROM: dimasadi1308@gmail.com
     GOOGLE_APPLICATION_CREDENTIALS: /opt/airflow/keys/credential.json
     AIRFLOW_CONN_GOOGLE_CLOUD_DEFAULT: > 
       {"conn_type":"google_cloud_platform","extra":{"extra__google_cloud_platform__project":"purwadika","extra__google_cloud_platform__key_path":"/opt/airflow/keys/credential.json"}}
